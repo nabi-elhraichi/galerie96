@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "postinstall": "ng build --output-path galerie96 --aot --prod"
+    "postinstall": "ng build --output-path bookshelves --aot --prod"
   },
   "engines": {
     "node": "v10.19.0",
